@@ -1,0 +1,2 @@
+#transmittable-thread-local
+- 利用TransmittableThreadLocal实现支持跨线程池的mdc跟踪
